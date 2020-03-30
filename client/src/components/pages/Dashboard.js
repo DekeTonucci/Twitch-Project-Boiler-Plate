@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faTwitch } from '@fortawesome/free-brands-svg-icons';
 
 const background = {
   backgroundImage: 'linear-gradient(127deg, #e0c3fc 0%, #8ec5fc 100%)'
