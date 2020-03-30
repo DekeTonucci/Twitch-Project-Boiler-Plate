@@ -15,7 +15,7 @@ If you do not have a Twitch developers account, you will need to create one to b
 Create a new Twitch app to generate the information needed to fill out the dev.example.js file.  
 Copy the Client Id and Client Secret to the example.dev.js file and set the twitch callback url to: http://localhost:3000/auth/twitch/callback
 
-Set <code>MONGO_URI</code> to <code>mongodb://localhost:27017/streamlytics</code> or where you want to host your mongoDB.  
+Set <code>MONGO_URI</code> to <code>mongodb://localhost:27017/youre_project_name</code> or where you want to host your mongoDB.  
 Set <code>YOUR_SESSION_SECRET</code> to Some Random String of Characters.
 
 Now rename the example.dev.js file to dev.js.
