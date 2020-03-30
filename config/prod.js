@@ -1,0 +1,8 @@
+
+module.exports = {
+  TWITCH_CLIENT_ID: process.env.TWITCH_CLIENT_ID,
+  TWITCH_CLIENT_SECRET: process.env.TWITCH_CLIENT_SECRET,
+  TWITCH_CALLBACK_URL: process.env.TWITCH_CALLBACK_URL,
+  MONGO_URI: process.env.MONGO_URI,
+  SESSION_SECRET: process.env.SESSION_SECRET,
+};
